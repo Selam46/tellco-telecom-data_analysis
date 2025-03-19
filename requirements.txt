@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+psycopg2-binary
+streamlit
+pytest
+python-dotenv
