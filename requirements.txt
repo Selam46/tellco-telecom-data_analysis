@@ -8,3 +8,4 @@ streamlit
 pytest
 python-dotenv
 sqlalchemy
+plotly
