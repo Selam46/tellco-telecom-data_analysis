@@ -73,7 +73,7 @@ To build and run the application as a Docker container, follow these steps:
 ### Build the Docker Image
 
 ```bash
-docker build -t your-image-name .
+docker build -t tellco-analytics .
 ```
 
 ### Run the Docker Container
