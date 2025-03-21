@@ -79,7 +79,7 @@ docker build -t your-image-name .
 ### Run the Docker Container
 
 ```bash
-docker run -p 8501:8501 your-image-name
+docker run -p 8501:8501 tellco-analytics
 ```
 
 ### Accessing the Application in Docker
